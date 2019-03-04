@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(scan line.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+c:\users\xh\desktop\cg_夏浩_21721084\scan line\scan line\frame_buffer.h(16): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\desktop\cg_夏浩_21721084\scan line\scan line\obj.h(96): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\desktop\cg_夏浩_21721084\scan line\scan line\obj.h(104): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\desktop\cg_夏浩_21721084\scan line\scan line\obj.h(105): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\desktop\cg_夏浩_21721084\scan line\scan line\obj.h(122): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\desktop\cg_夏浩_21721084\scan line\scan line\obj.h(128): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\desktop\cg_夏浩_21721084\scan line\scan line\obj.h(129): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\desktop\cg_夏浩_21721084\scan line\scan line\源.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\desktop\cg_夏浩_21721084\scan line\scan line\源.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\desktop\cg_夏浩_21721084\scan line\scan line\源.cpp(123): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\desktop\cg_夏浩_21721084\scan line\scan line\源.cpp(162): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\desktop\cg_夏浩_21721084\scan line\scan line\源.cpp(181): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\desktop\cg_夏浩_21721084\scan line\scan line\源.cpp(212): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\desktop\cg_夏浩_21721084\scan line\scan line\源.cpp(264): warning C4018: “>”: 有符号/无符号不匹配
+  scan line.vcxproj -> C:\Users\xh\Desktop\CG_夏浩_21721084\scan line\Debug\Interval scanning line.exe
