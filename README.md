@@ -1,6 +1,6 @@
 # Interval-scan-line-blanking
 这里是图形学中常见的一种消隐算法（区间扫面线消隐）的实现。
-说明请看其中的doc文件
+具体说明请看其中的doc文件
 
 1.编程语言、环境、第三方库
 开发环境为Visual Studio 2017,C++.
